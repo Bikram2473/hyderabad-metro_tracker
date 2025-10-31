@@ -1,5 +1,5 @@
 # 🚉 Hyderabad Metro Tracker
-A full-stack web application that allows users to plan, track, and manage their metro journeys across Hyderabad's *Red, **Blue, and **Green* lines. Built using *React.js, **FastAPI/MongoDB, and styled with **Tailwind CSS*.
+A full-stack web application that allows users to plan, track, and manage their metro journeys across Hyderabad's _**Red**_, _**Blue**_, and **_Green_** lines. Built using **_React.js_**, **_FastAPI/MongoDB_**, and styled with **_Tailwind CSS_**.
 
 ## 🧭 Features
 ✅ *Search & Track Journeys:* Select *source* and *destination* metro stations to find route and travel details.</br>
