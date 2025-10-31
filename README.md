@@ -10,26 +10,26 @@ _A full-stack web application that allows users to plan, track, and manage their
 ✅ _**Interactive UI:**_ _Built with _**React + Tailwind CSS**_ for a modern and responsive experience.</br>_
 
 ## 🧩 Tech Stack
-🖥 *Frontend*
-- React.js
-- Tailwind CSS
-- Axios
-- React Router DOM
-- Radix UI Components
+🖥 _**Frontend**_
+- _React.js_
+- _Tailwind CSS_
+- _Axios_
+- _React Router DOM_
+- _Radix UI Components_
 
-⚙ *Backend*
-- FastAPI (Python)
-- MongoDB (local)
-- Pydantic, Motor, and Dotenv
+⚙ **_Backend_**
+- _FastAPI (Python)_
+- _MongoDB (local)_
+- _Pydantic, Motor, and Dotenv_
 
 ## ⚙ Installation & Setup
-1️⃣ Clone the repository
+1️⃣ _Clone the repository_
 ```bash
 git clone https://github.com/<your-username>/hyderabad-metro-tracker.git
 cd hyderabad-metro-tracker
 ```
 
-2️⃣ Backend Setup
+2️⃣ _Backend Setup_
 ```bash
 cd backend
 pip install -r requirements.txt
@@ -46,14 +46,14 @@ mongod --dbpath "C:\data\db"
 uvicorn server:app --reload --port 8001
 ```
 
-3️⃣ Frontend Setup
+3️⃣ _Frontend Setup_
 ```bash
 cd ../frontend
 yarn install
 yarn start
 ```
 
-🗂 Folder Structure
+🗂 _Folder Structure_
 ```bash
 hyderabad-metro-tracker/
 │
@@ -74,11 +74,11 @@ hyderabad-metro-tracker/
     └── package.json
 ```
 
-🧠 How It Works
-- The frontend provides a search and dropdown for source & destination stations.
-- The backend fetches station data from *MongoDB*.
-- On selecting stations, the route is completed and displayed.
-- The user can save routes as favourites or view journey history.
+🧠 _How It Works_
+- _The frontend provides a search and dropdown for source & destination stations._
+- __The backend fetches station data from_ **_MongoDB_**._
+- _On selecting stations, the route is completed and displayed._
+- _The user can save routes as favourites or view journey history._
 
 ## 📸 Demo Screenshots
 ![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/HomeScreen.png)</br>
