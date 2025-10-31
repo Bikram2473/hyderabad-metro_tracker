@@ -24,13 +24,13 @@ A full-stack web application that allows users to plan, track, and manage their 
 
 ## ⚙ Installation & Setup
 1️⃣ Clone the repository
-bash
+```bash
 git clone https://github.com/<your-username>/hyderabad-metro-tracker.git
 cd hyderabad-metro-tracker
-
+```
 
 2️⃣ Backend Setup
-bash
+```bash
 cd backend
 pip install -r requirements.txt
 
@@ -44,17 +44,17 @@ mongod --dbpath "C:\data\db"
 
 # Run the backend:
 uvicorn server:app --reload --port 8001
-
+```
 
 3️⃣ Frontend Setup
-bash
+```bash
 cd ../frontend
 yarn install
 yarn start
-
+```
 
 🗂 Folder Structure
-bash
+```bash
 hyderabad-metro-tracker/
 │
 ├── backend/
@@ -72,7 +72,7 @@ hyderabad-metro-tracker/
     │   └── index.js
     ├── tailwind.config.js
     └── package.json
-
+```
 
 🧠 How It Works
 - The frontend provides a search and dropdown for source & destination stations.
@@ -81,3 +81,8 @@ hyderabad-metro-tracker/
 - The user can save routes as favourites or view journey history.
 
 ## 📸 Demo Screenshots
+![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/HomeScreen.png)
+![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/FavouritesPage.png)
+![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyAnimation.png)
+![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyScreen2.png)
+![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyScreen3.png)
