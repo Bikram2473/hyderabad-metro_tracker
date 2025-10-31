@@ -81,8 +81,8 @@ hyderabad-metro-tracker/
 - The user can save routes as favourites or view journey history.
 
 ## 📸 Demo Screenshots
-![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/HomeScreen.png)
-![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/FavouritesPage.png)
-![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyAnimation.png)
-![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyScreen2.png)
-![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyScreen3.png)
+![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/HomeScreen.png)</br>
+![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/FavouritesPage.png)</br>
+![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyAnimation.png)</br>
+![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyScreen2.png)</br>
+![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyScreen3.png)</br>
