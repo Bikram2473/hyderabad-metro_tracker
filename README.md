@@ -86,3 +86,4 @@ hyderabad-metro-tracker/
 ![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyAnimation.png)</br>
 ![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyScreen2.png)</br>
 ![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/JourneyScreen3.png)</br>
+![**_image_alt_**](https://github.com/Bikram2473/hyderabad-metro_tracker/blob/main/HistoryPage.png)</br>
