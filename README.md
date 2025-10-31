@@ -1,13 +1,13 @@
 # 🚉 Hyderabad Metro Tracker
-A full-stack web application that allows users to plan, track, and manage their metro journeys across Hyderabad's _**Red**_, _**Blue**_, and **_Green_** lines. Built using **_React.js_**, **_FastAPI/MongoDB_**, and styled with **_Tailwind CSS_**.
+_A full-stack web application that allows users to plan, track, and manage their metro journeys across Hyderabad's _**Red**_, _**Blue**_, and **_Green_** lines. Built using **_React.js_**, **_FastAPI/MongoDB_**, and styled with **_Tailwind CSS_**._
 
 ## 🧭 Features
-✅ _**Search & Track Journeys:**_ Select _**source**_ and _**destination**_ metro stations to find route and travel details.</br>
-✅ _**Dynamic Metro Lines:**_ Covers **_Red_**, **_Blue_**, and **_Green_** lines of Hyderabad Metro.</br>
-✅ _**Station Data from MongoDB:**_ Fetches real-time metro stations from a **_MongoDB_** database.</br>
-✅ **_Journey History:_** Automatically stores your past journeys for quick access.</br>
-✅ _**Favourites:**_ Mark your most used or preferred routes as favourites.</br>
-✅ _**Interactive UI:**_ Built with _**React + Tailwind CSS**_ for a modern and responsive experience.</br>
+✅ _**Search & Track Journeys:**_ _Select _**source**_ and _**destination**_ metro stations to find route and travel details.</br>_
+✅ _**Dynamic Metro Lines:**_ _Covers **_Red_**, **_Blue_**, and **_Green_** lines of Hyderabad Metro.</br>_
+✅ _**Station Data from MongoDB:**_ _Fetches real-time metro stations from a **_MongoDB_** database.</br>_
+✅ **_Journey History:_** _Automatically stores your past journeys for quick access.</br>_
+✅ _**Favourites:**_ _Mark your most used or preferred routes as favourites.</br>_
+✅ _**Interactive UI:**_ _Built with _**React + Tailwind CSS**_ for a modern and responsive experience.</br>_
 
 ## 🧩 Tech Stack
 🖥 *Frontend*
